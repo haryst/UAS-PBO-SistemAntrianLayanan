@@ -151,5 +151,4 @@ private int durasiLayanan;
     public boolean isRunning() {
         return isRunning;
     }
-    
 }
